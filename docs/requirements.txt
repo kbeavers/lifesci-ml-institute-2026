@@ -1,0 +1,7 @@
+sphinx-autobuild
+sphinx-rtd-theme
+sphinx-design
+sphinx-fontawesome
+sphinxemoji
+sphinx-togglebutton
+sphinx-copybutton
