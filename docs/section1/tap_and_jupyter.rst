@@ -41,7 +41,7 @@ Once logged in, you'll be directed to the Home Screen where you can submit a job
 
 * **Project:** your assigned workshop allocation
 
-* **Queue:** development
+* **Queue:** gg
 
 * **Nodes:** 1 
   
@@ -71,7 +71,7 @@ Once logged in, you'll be directed to the Home Screen where you can submit a job
 
    <span style="text-align: justify; font-size: 16px;line-height:24px;"> This will submit your job
    to the remote system. After submitting the job, you will be automatically redirected
-   to the job status page in a new tab (shown below). 
+   to the job status page (shown below). 
    <br><br>
 
 .. image::  ./images/2TAP.png
